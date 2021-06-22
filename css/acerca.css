@@ -44,8 +44,11 @@ ul.breadcrumb li a:hover {
     color: #01447e;
     text-decoration: underline;
 }
-
-
+/*********************************************************************************************************/
+#hr_pasatiempos{
+    width: 12px;
+    color: #e2e97d;
+}
 .contenedor{
     width: 90%;
     max-width: 1000px;
